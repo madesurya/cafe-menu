@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cafe-menu/static/css/main.677b6e37.css",
+    "main.js": "/cafe-menu/static/js/main.de6d66c1.js",
+    "index.html": "/cafe-menu/index.html",
+    "main.677b6e37.css.map": "/cafe-menu/static/css/main.677b6e37.css.map",
+    "main.de6d66c1.js.map": "/cafe-menu/static/js/main.de6d66c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677b6e37.css",
+    "static/js/main.de6d66c1.js"
+  ]
+}
